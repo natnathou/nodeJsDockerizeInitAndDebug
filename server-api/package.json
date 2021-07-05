@@ -4,8 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "debug": "nodemon --legacy-watch --inspect=0.0.0.0:5858 --exec babel-node app.js",
-    "dev": "nodemon --legacy-watch --exec babel-node app.js"
+    "dev": "nodemon --legacy-watch --inspect=0.0.0.0:5858 --exec babel-node app.js"
   },
   "keywords": [],
   "author": "",
