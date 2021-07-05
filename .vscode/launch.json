@@ -11,6 +11,7 @@
             "localRoot": "${workspaceFolder}/server-api",
             "remoteRoot": "/app",
             "protocol": "inspector",
+            "sourceMaps": true
 
         }
     ]
